@@ -1,0 +1,1 @@
+SELECT * FROM Patient p JOIN Account a ON a.AccountID = p.AccountID

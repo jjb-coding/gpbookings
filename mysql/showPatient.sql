@@ -1,0 +1,1 @@
+SELECT a.FirstName AS FirstName, a.Surname AS Surname, a.SecurityEmail AS Email, d.FirstName AS DoctorFirstName, d.Surname AS DoctorSurname FROM Patient p JOIN Account a ON p.AccountID = a.AccountID JOIN Account d ON p.DoctorID = d.AccountID

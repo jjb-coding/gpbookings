@@ -1,0 +1,7 @@
+# Eclipse
+.metadata/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db

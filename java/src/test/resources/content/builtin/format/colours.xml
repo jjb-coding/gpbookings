@@ -1,0 +1,24 @@
+<colours>
+	<IGNORED r="0" g="0" b="0"/>
+	<LOCAL_ERROR r="255" g="50" b="50"/>
+	<API_ERROR r="200" g="50" b="90"/>
+	<NEUTRAL r="78" g="200" b="155"/>
+	<SUCCESS r="34" g="150" b="200"/>
+	<TABLE_SELECTED_BACKGROUND r="110" g="110" b="190"/>
+	<TABLE_UNSELECTED_1_BACKGROUND r="180" g="180" b="180"/>
+	<TABLE_UNSELECTED_2_BACKGROUND r="225" g="225" b="225"/>
+	<TABLE_SELECTED_TEXT r="80" g="0" b="150"/>
+	<TABLE_UNSELECTED_1_TEXT r="0" g="0" b="0"/>
+	<TABLE_UNSELECTED_2_TEXT r="0" g="0" b="0"/>
+	<HEADER_BACKGROUND r="200" g="211" b="230"/>
+	<FORM_BACKGROUND r="223" g="236" b="254"/>
+	<HEADER_TEXT r="0" g="20" b="0"/>
+	<DASHBOARD_ICONS_TEXT r="20" g="10" b="100"/>
+	<DASHBOARD_ICONS_BACKGROUND r="200" g="200" b="200"/>
+	<APP_BACKGROUND r="220" g="220" b="215"/>
+	<APP_BACKGROUND_PALE r="210" g="200" b="244"/>
+	<ACCOUNT_BAR_BACKGROUND r="121" g="121" b="121"/>
+	<SMALL_BUTTON_TEXT r="40" g="40" b="40"/>
+	<PROGRESS_BAR r="10" g="10" b="200"/>
+	<TEXT r="0" g="0" b="0"/>
+</colours>

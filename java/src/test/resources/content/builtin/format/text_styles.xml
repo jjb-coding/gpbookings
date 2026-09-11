@@ -1,0 +1,9 @@
+<styles>
+	<DASHBOARD_ICONS isItalic="false" isBold="true" size="20" font="Calibri" colour="DASHBOARD_ICONS_TEXT"/>
+	<HEADER isItalic="true" isBold="true" size="28" font="Ubuntu" colour="HEADER_TEXT"/>
+	<SMALL_BUTTON isItalic="true" isBold="true" size="9" font="Calibri" colour="SMALL_BUTTON_TEXT"/>
+	<INSTRUCTION isItalic="false" isBold="true" size="14" font="Ubuntu" colour="TEXT"/>
+	<FIELD_LABEL isItalic="false" isBold="false" size="14" font="Ubuntu" colour="TEXT"/>
+	<STATUS_LABEL_DEFAULT isItalic="true" isBold="false" size="12" font="Ubuntu" colour="IGNORED"/>
+	<EMAIL_ADDRESS isItalic="true" isBold="false" size="13" font="Vera" colour="TEXT"/>
+</styles>

@@ -1,0 +1,6 @@
+<config
+	language = "en-uk"
+	database_username = "patient"
+	database_password = "password"
+	database_location = "jdbc:mysql://localhost:3306/db"
+	version = "1"/>

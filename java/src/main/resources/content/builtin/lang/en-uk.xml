@@ -1,0 +1,87 @@
+<language
+	FIELD_EMAIL_INVALID						= "The email is invalid."
+	FIELD_GENERAL_COMBO_BOX_UNSELECTED		= "You must select an item."
+	FIELD_TEXT_TOO_LONG						= "Text is over 64 characters."
+	FIELD_TEXT_EMPTY						= "Must not be empty."
+	FIELD_PASSWORD_EMPTY					= "Please enter a password."
+	FIELD_PASSWORD_CREATION_TOO_SHORT		= "Passwords must be at least 8 characters long."
+	FIELD_PASSWORD_CREATION_TOO_LONG		= "Passwords cannot be more than 32 characters long."
+	FIELD_PASSWORD_NEEDS_UPPERCASE			= "Password must contain at least one uppercase letter."
+	FIELD_PASSWORD_NEEDS_LOWERCASE			= "Password must contain at least one lowercase letter."
+	FIELD_PASSWORD_NEEDS_SPECIAL			= "Password must contain at least one special character from -!#$%&amp;\&apos;*+/=?^_`{|}~]."
+	FIELD_PASSWORD_NEEDS_DIGIT				= "Password must contain at least one digit."
+	FIELD_PERSONAL_NAME_TOO_SHORT			= "Names must be at least 2 characters long."
+	FIELD_PERSONAL_NAME_INVALID_CHARACTERS	= "Names can only contain letters, dashes and spaces."
+	FIELD_PHONE_NUMBER_INVALID_LENGTH		= "Phone numbers must be 11 digits, or 12 digits including a country code."
+	FIELD_PHONE_NUMBER_NEEDS_PLUS			= "International phone numbers must begin with a +."
+	FIELD_PHONE_NUMBER_INVALID_CHARACTERS	= "Phone numbers can only contain digits."
+	FIELD_POSTCODE_INVALID					= "Not a valid UK postcode. Remember to include a space."
+	FIELD_INVALID							= "There was a problem with the form."
+	MULTIFIELD_MATCHES_INVALID				= "%s don't match."
+	SPECIALISE_PASSWORDS					= "Passwords"
+	
+	DASHBOARD_WELCOME_MESSAGE 				= "Welcome, %s"
+	DASHBOARD_BUTTON_VIEW_BOOKINGS			= "View Bookings"
+	DASHBOARD_BUTTON_NEW_BOOKING			= "New Booking"
+	DASHBOARD_BUTTON_DETAILS				= "See Your Personal Details"
+	DASHBOARD_BUTTON_MESSAGES				= "View Your Messages"
+	ACCOUNT_BAR_BUTTON_LOG_OUT				= "Log Out"
+	PARAMETRISED							= "%s"
+	
+	LOG_IN_INSTRUCTION						= "Please enter your email and password:"
+	NEW_INSTRUCTION							= "Registration Page"
+	MAKE_BOOKING_INSTRUCTION				= "Make A New Booking"
+	RESCHEDULE_BOOKING_INSTRUCTION			= "Reschedule Booking"
+		
+	EMAIL_LABEL								= "Email:"
+	PASSWORD_LABEL							= "Password:"
+	CONFIRM_PASSWORD_LABEL					= "Confirm Password:"
+	TITLE_LABEL								= "Title:"
+	FIRST_NAME_LABEL						= "First Name:"
+	SURNAME_LABEL							= "Surname:"
+	CONTACT_PHONE_NUMBER_LABEL				= "&lt;html&gt;Contact&lt;br&gt;Phone Number:&lt;/html&gt;"
+	STREET_1_LABEL							= "&lt;html&gt;Street Address&lt;br&gt;1st Line:&lt;/html&gt;"
+	STREET_2_LABEL							= "2nd Line:"
+	CITY_LABEL								= "City:"
+	COUNTY_LABEL							= "County:"
+	POSTCODE_LABEL							= "Post Code:"
+	DOCTOR_LABEL							= "Choose Doctor:"
+	DATE_LABEL								= "Choose Date:"
+	SLOT_LABEL								= "Choose Booking Slot:"
+	
+	LOG_IN_SUCCESS							= "Successfully logged in!"
+	UPDATE_DETAILS_SUCCESS					= "You've successfully updated your details."
+	RESCHEDULE_BOOKING_SUCCESS				= "You've successfully rescheduled your booking."
+	MAKE_BOOKING_SUCCESS					= "You've made a booking."
+	NEW_SUCCESS								= "You've succeeded in creating a new account!"
+	
+	LOG_IN_READY							= "Logging in..."
+	UDPATE_DETAILS_READY					= "Updating details..."
+	RESCHEDULE_BOOKING_READY				= "Rescheduling booking..."
+	MAKE_BOOKING_READY						= "Making booking..."
+	NEW_READY								= "Registering account..."
+
+	BUTTON_NEXT								= "Next"
+	BUTTON_BACK								= "Back"
+	BUTTON_CANCEL							= "Cancel"
+	BUTTON_LOG_IN							= "Log In"
+	BUTTON_SUBMIT							= "Submit"
+		
+	API_VALIDATION_ERROR					= "Something went wrong."
+	
+	API_INVALID_CREDENTIALS					= "You don't appear to be logged in."
+	API_SESSION_TIMEOUT						= "Your session has timed out. Please log back in."
+	
+	API_ALREADY_EXISTS						= "An account with that email already exists!"
+	
+	API_BAD_BOOKING							= "Your booking could not be made."
+	API_BOOKED_ALREADY						= "Unfortunately, your doctor is already booked for an appointment at this time."
+	
+	API_BAD_LOGIN							= "We couldn't find your account."
+	
+	API_MALFEASANCE							= "Something went wrong."	
+	
+	API_NO_API								= "Couldn't connect to database."
+	API_ERROR								= "Something went wrong."
+	
+	/>
